@@ -1,0 +1,1 @@
+此项目基于C#winfrom和sqlserver制作的一个我校图书管理工具
